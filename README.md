@@ -39,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ![image](https://github.com/mattracx/net-tools/assets/1215814/29d53f06-74b1-4cdc-a22a-9a2976918f33)
 ![image](https://github.com/mattracx/net-tools/assets/1215814/ad4de595-bf2d-461f-abe8-a9b73e859151)
 
+## Example
+![image](https://github.com/mattracx/net-tools/assets/1215814/e000f934-c101-4a9a-b70b-1af22fd364ef)
+
