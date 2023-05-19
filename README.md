@@ -1,3 +1,7 @@
+
+## Please note, the app is still at a very early stage. Only mDNS function is implemented at the moment and the result is visible through browser Developer Tools (API Response)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
